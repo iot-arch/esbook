@@ -1,8 +1,8 @@
 
 ```
-e:\Gitbook\2019\Import\test>gitbook init
+PS D:\Codes\markdown\esbook> gitbook -V
 Installing GitBook 3.2.3
-gitbook@3.2.3 C:\Users\FUJIAN~2\AppData\Local\Temp\tmp-186002ka7aHl7tyHD\node_modules\gitbook
+gitbook@3.2.3 C:\Users\admin\AppData\Local\Temp\tmp-8024k85CHpZ07LJs\node_modules\gitbook
 ├── escape-html@1.0.3
 ├── destroy@1.0.4
 ├── escape-string-regexp@1.0.5

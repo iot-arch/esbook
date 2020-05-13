@@ -1,7 +1,8 @@
+
 install gitbook
 
-
 ```
+PS D:\Codes\markdown\esbook> gitbook -V
 gitbook@3.2.3 C:\Users\admin\AppData\Local\Temp\tmp-8024k85CHpZ07LJs\node_modules\gitbook
 ├── escape-string-regexp@1.0.5
 ├── escape-html@1.0.3
