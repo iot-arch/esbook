@@ -1,0 +1,50 @@
+{
+    "title": "How to use gitbook",
+    "author": "Edward",
+    "description": "记录Gitbook的配置和一些插件的使用",
+    "language": "zh-hans",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "github",
+        "splitter",
+        "-sharing",
+        "sharing-plus",
+        "advanced-emoji"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/crazybber"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "twitter": false,
+            "weibo": true,
+            "all": [
+                "douban",
+                "facebook",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "weibo",
+                "messenger",
+                "qq",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Jump to Home": "https://arch.run"
+        }
+    }
+}
