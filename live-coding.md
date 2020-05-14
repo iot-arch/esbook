@@ -1,7 +1,10 @@
 ---
+
 title: 动态加载内容，并编译
-命令：gitbook serve
-备注：效果其实并不怎么样.
+author:edward
+命令:gitbook serve
+备注:效果其实并不怎么样.
+
 ---
 
 ```ps
