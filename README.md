@@ -30,10 +30,6 @@ GitBook最完整简易使用教程
 https://blog.csdn.net/JunSIrhl/article/details/102534319
 
 
-## 插件
-
-[插件](plugins.md)
-
 gitbook入门
 
 https://www.jianshu.com/p/dc53e589897a
@@ -61,6 +57,12 @@ https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
 用 GitBook 创建一本书
 
 https://www.cnblogs.com/erdongx/p/11918844.html
+
+
+## 插件
+
+[插件](plugins.md)
+
 
 
 ## 更多工具
