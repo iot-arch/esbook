@@ -7,21 +7,23 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-18.04
+    
+    strategy:
+      matrix:
+        node-version: [8.x, 10.x, 12.x]
+    
     steps:
       - uses: actions/checkout@v2
+      - name: Use Node.js 8
+        uses: actions/setup-node@v1
         with:
-#          submodules: true  # Fetch Hugo themes
-          fetch-depth: 1    # Fetch latest layer and .Lastmod
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
-
+          node-version: 12
+          fetch-depth: 1    # Fetch latest layer and .Lastmod 
+      - name: npm install gitbook
+        run: |
+         npm install -g gitbook-cli
+         gitbook install
+         gitbook build . docs
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
