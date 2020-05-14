@@ -30,6 +30,10 @@ GitBook最完整简易使用教程
 https://blog.csdn.net/JunSIrhl/article/details/102534319
 
 
+## 插件
+
+[插件](plugins.md)
+
 gitbook入门
 
 https://www.jianshu.com/p/dc53e589897a
@@ -58,10 +62,6 @@ https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
 
 https://www.cnblogs.com/erdongx/p/11918844.html
 
-
-windows 安装gitbook并使用gitbook editor可视化工具
-
-https://www.cnblogs.com/kingsonfu/p/10255123.html
 
 ## 更多工具
 
