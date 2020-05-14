@@ -14,11 +14,10 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js 8
+      - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
           node-version: 12
-          fetch-depth: 1    # Fetch latest layer and .Lastmod 
       - name: npm install gitbook
         run: |
          npm install -g gitbook-cli
