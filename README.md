@@ -1,6 +1,25 @@
 # esbook
 
-[git-pages](https://iot-arch.github.io/esbook/)
+[当前内容的 git-pages 链接](https://iot-arch.github.io/esbook/)
+
+
+## 下载安装
+
+前置条件，需要先安装nodejs :--->https://nodejs.org
+
+[git-book 安装](install.md)
+
+## 开始使用
+
+[git-book 安装后初始化一本书](initbook.md)
+
+
+## 配置
+
+[git-book 配置](configuration.md)
+
+
+## 教程
 
 GitBook最完整简易使用教程
 
@@ -40,4 +59,6 @@ windows 安装gitbook并使用gitbook editor可视化工具
 
 https://www.cnblogs.com/kingsonfu/p/10255123.html
 
+## 更多工具
 
+[digest 工具](tools.md)
