@@ -13,6 +13,8 @@
 
 [git-book 安装后初始化一本书](initbook.md)
 
+[代码内容热加载](live-loading-code.md)
+
 
 ## 配置
 
