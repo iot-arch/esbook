@@ -35,6 +35,8 @@ make clean    - Remove generated files
 
 ## demo 说明
 
+除了图示的说明外，目录的与内容的分隔栏还可以自由拖动.
+
 ![基础增强配置](images/image.png)
 
 单击可以看大图
