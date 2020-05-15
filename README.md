@@ -36,3 +36,5 @@ make clean    - Remove generated files
 ## demo 说明
 
 ![基础增强配置](images/image.png)
+
+单击可以看大图
