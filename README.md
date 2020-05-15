@@ -4,9 +4,9 @@
 
 
 
-## 本书的目录
+## 目录
 
-[目录页：](SUMMARY.md)
+[快捷目录页](SUMMARY.md)
 
 
 ## 使用gitbook
@@ -33,3 +33,6 @@ make clean    - Remove generated files
 [工具脚本](publish_to_gh.sh)
 
 
+## demo 说明
+
+！[基础增强配置](images/image.png)
