@@ -16,7 +16,7 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/crazybber"
+            "url": "https://github.com/iot-arch/esbook"
         },
         "editlink": {
             "base": "https://github.com/iot-arch/esbook/blob/master/",
